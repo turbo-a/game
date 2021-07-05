@@ -117,7 +117,7 @@ public class createToken {
         sdk = SDK.getInstance(sdkConfigure);
         Signature[] signatures = null;
         // The account private key to issue atp1.0 token
-        String senderPrivateKey = "privbUWRm3QjppKxWFGEh9FSwujiKjwPiGKHs9ikdzqKosHPB9xKa1U3";
+        String senderPrivateKey = "privb";
 
         // Sign transaction BLob
         TransactionSignRequest transactionSignRequest = new TransactionSignRequest();
